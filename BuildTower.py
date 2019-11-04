@@ -1,10 +1,9 @@
-"""
+```
 Build Tower
 Build Tower by the following given argument:
 number of floors (integer and always greater than 0).
 
 Tower block is represented as *
-
 Python: return a list;
 JavaScript: returns an Array;
 C#: returns a string[];
@@ -13,7 +12,7 @@ C++: returns a vector<string>;
 Haskell: returns a [String];
 Ruby: returns an Array;
 Have fun!
-"""
+```
 
 def tower_builder(n_floors):
     # build here
